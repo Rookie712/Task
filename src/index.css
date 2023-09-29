@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.pagination{
+  padding: 1rem;
+}
+.custom{
+  width: 100vh;
+  height: 100vh;
+  overflow-x: scroll;
+  overflow-y: scroll;
+}
